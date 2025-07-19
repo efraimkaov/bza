@@ -1,5 +1,9 @@
 # Byzantine Assistant
 
+## !!! ATTENTION !!!
+
+This project will be moved to the [bcp](https://github.com/orthodoxprojects/bcp) repository and will be rewritten from scratch.
+
 ## Overview
 
 BZA is an assistant that intends to help you get the correct pitch for any note of Byzantine chant, but it can also be used for isokratima.
