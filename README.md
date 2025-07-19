@@ -2,7 +2,7 @@
 
 ## !!! ATTENTION !!!
 
-This project will be moved to the [bcp](https://github.com/orthodoxprojects/bcp) repository and will be rewritten from scratch.
+This project will be moved to the [bcp](https://github.com/efraimkaov/bcp) repository and will be rewritten from scratch.
 
 ## Overview
 
