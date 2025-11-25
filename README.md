@@ -1,8 +1,12 @@
 # Byzantine Assistant
 
-## !!! ATTENTION !!!
+## Project Deprecated
 
-This project will be moved to the [bcp](https://github.com/efraimkaov/bcp) repository and will be rewritten from scratch.
+![status: deprecated](https://img.shields.io/badge/status-deprecated-red)
+
+Development has moved to a new codebase that replaces this project.
+
+**Successor project:**  [bcp](https://github.com/ephmo/bcp)
 
 ## Overview
 
@@ -20,30 +24,10 @@ BZA is an assistant that intends to help you get the correct pitch for any note 
 - possibility to adjust the volume
 - responsive design
 
-## To-Do List
-
-- to build desktop application for Linux, macOS and  Windows
-- to build mobile application for Android
-
-## Web Version
-
-Access the web version of the application [here](https://orthodoxprojects.github.io/bza/).
-
-## Contributing
-
-Contributions are welcome! If you'd like to contribute to this application, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature/your-feature-name`).
-3. Make your changes.
-4. Commit your changes (`git commit -am 'Add some feature'`).
-5. Push to the branch (`git push origin feature/your-feature-name`).
-6. Create a new Pull Request.
-
 ## License
 
 This application is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details.
 
 ## Reporting Issues
 
-If you encounter any issues or have suggestions for improvements, please [create an issue](https://github.com/orthodoxprojects/bza/issues) on our issue tracker. We appreciate your feedback!
+If you encounter any issues or have suggestions for improvements, please [create an issue](https://github.com/efraimkaov/bza/issues) on our issue tracker. We appreciate your feedback!
