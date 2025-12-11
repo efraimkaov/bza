@@ -1,33 +1,34 @@
-# Byzantine Assistant
+# Byzantine Assistant (BZA)
 
-## Project Deprecated
+## 📍 Project Status: **Deprecated**
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-red)
 
-Development has moved to a new codebase that replaces this project.
+This project is no longer under active development. It has been superseded by a new codebase with expanded functionality and ongoing maintenance.
 
-**Successor project:**  [bcp](https://github.com/ephmo/bcp)
+👉 **Successor project:** [**bcp**](https://github.com/ephmo/bcp)
 
-## Overview
+---
 
-BZA is an assistant that intends to help you get the correct pitch for any note of Byzantine chant, but it can also be used for isokratima.
+## 🎶 Overview
 
-![bza](https://user-images.githubusercontent.com/63643635/230186721-5948cf6c-4aed-4fe3-9682-247d33f97d67.png)
+**Byzantine Assistant (BZA)** is a tool designed to help users find the correct pitch for any note in Byzantine chant. It can also be used as a companion for *isokratima* practice.
 
-## Features
+---
 
-- plays the **notes** for all the **Scales** available in [neanes](https://github.com/neanes/neanes)
-- also plays the **notes** with alteration
-- quick switch between four main **Scales**
-- possibility to adjust the reference frequency
-- quick switch between an octave higher and lower
-- possibility to adjust the volume
-- responsive design
+## ✨ Features
 
-## License
+- Playback of **notes** for all **scales** available in the [neanes](https://github.com/neanes/neanes) application  
+- Support for **altered notes**  
+- Quick switching between the four main **scales**  
+- Customizable **reference frequency**  
+- Instant **octave up/down** switching  
+- Adjustable **volume**  
+- **Responsive UI** for desktop and mobile use  
 
-This application is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details.
+---
 
-## Reporting Issues
+## 📄 License
 
-If you encounter any issues or have suggestions for improvements, please [create an issue](https://github.com/ephmo/bza/issues) on our issue tracker. We appreciate your feedback!
+This project is distributed under the **GNU General Public License v3.0**.  
+See the [LICENSE](LICENSE) file for full details.
